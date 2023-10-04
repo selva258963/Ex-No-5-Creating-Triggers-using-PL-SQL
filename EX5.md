@@ -21,6 +21,7 @@
 
 
 ### PLSQL Trigger code
+
 SQL> set serveroutput on
 SQL> CREATE OR REPLACE TRIGGER log_salary1_update
   2  BEFORE UPDATE ON emp1
